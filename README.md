@@ -1,2 +1,1 @@
-# Paint
-Learning CSS on codecademy
+# PaintSHop
